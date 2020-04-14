@@ -1,7 +1,6 @@
 xxxx
-<<<<<<< HEAD
 
 xxx
-=======
 mmm
->>>>>>> test
+xxxx
+
